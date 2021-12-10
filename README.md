@@ -24,8 +24,7 @@ Along with exploring songs and their attributes, I also wanted to look at songs 
 
 I found that:
 
-Songs made before 2000 had higher Mode, Acousticness and Valence
-Songs made after 2000 had higher Energy, Danceability and Speechiness
+Songs made before 2000 had higher Mode, Acousticness and Valence while songs made after 2000 had higher Energy, Danceability and Speechiness
 
 Further when I generated feature distribution on the dataset, it confirmed the visualization results along with highlighting attributes that play a deterministic role in a song's outreach. Through this process I found that Popular songs have higher Duration and Valence range, while Unpopular songs tend to be a bit Loud and Speechy
 
